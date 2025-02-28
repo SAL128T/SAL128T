@@ -10,7 +10,7 @@ A modern website showcasing the concept of linear city urban planning.
 - Newsletter subscription
 
 # Technologies Used
-- HTML5
+- HTML
 - CSS3
 - JavaScript
 
